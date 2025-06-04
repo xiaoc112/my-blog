@@ -1,7 +1,7 @@
 ---
 title: Cytoscape.js 详细学习笔记
 description: Cytoscape.js图论库的使用教程，包括节点、边的设置，样式配置，布局算法等核心内容
-date: 2023-04-29
+date: 2025-04-29
 sticky: 1
 tags:
   - JavaScript

@@ -1,7 +1,7 @@
 ---
 title: TailwindCSS 常用样式笔记
 description: TailwindCSS实用工具类速查表，包含布局、尺寸、颜色、文本等常用样式类整理
-date: 2023-04-28
+date: 2025-04-28
 sticky: 2
 tags:
   - CSS
